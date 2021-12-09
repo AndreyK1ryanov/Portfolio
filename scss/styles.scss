@@ -349,7 +349,7 @@ footer {
     height: 100vh;
     min-height: 500px;
     max-height: 1080px;
-    background: url(../images/lead-bg.jpg);
+    background: url(../images/pexels-pixabay-270360.jpg);
     background-size: cover;
     padding: 15px;
     overflow: hidden;
@@ -377,7 +377,7 @@ footer {
     }
 
     h2 {
-        color: lighten($base-color, 25%);
+        color: #fff;
         font-weight: 500;
         font-size: 2.25em;
         margin-bottom: 15px;
@@ -612,7 +612,7 @@ footer {
         margin: 0 0 15px 0;
     }
 
-    p, ul {
+    p,  ul {
         margin: 0;
         color: $text;
         font-size: 0.9em;

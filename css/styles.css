@@ -251,7 +251,7 @@ footer {
   height: 100vh;
   min-height: 500px;
   max-height: 1080px;
-  background: url(../images/lead-bg.jpg);
+  background: url(../images/pexels-pixabay-270360.jpg);
   background-size: cover;
   padding: 15px;
   overflow: hidden; }
@@ -274,7 +274,7 @@ footer {
     letter-spacing: 0.05em;
     line-height: 1.1em; }
   #lead-content h2 {
-    color: #a0cfee;
+    color: #fff;
     font-weight: 500;
     font-size: 2.25em;
     margin-bottom: 15px; }
